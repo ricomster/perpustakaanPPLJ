@@ -1,0 +1,9 @@
+id,email,password,nama,alamat,asalInstitusi,telepon,createdAt,updatedAt
+1,Joshtein4312@gmail.com,$2a$08$3gbcaHpaRjl5Ravuxumot.Qa99Vse6q.fKeGxWvmAdsp/6tIY7SI6,Joshtein,Sunter,ITB,089632121857,"2022-04-14 14:42:35","2022-04-14 14:42:35"
+2,Joshtein@gmail.com,$2a$08$VPnqSQxVMKAl3CNaco9M3eQZsKhiwqUmyl/.6NukPa1fSKTjSu97q,Joshtein,Sunter,ITB,089632121857,"2022-04-14 15:03:31","2022-04-14 15:03:31"
+3,Admin@gmail.com,$2a$08$tp94wHmnIOAMSlfWkxTAyOfvQeZgDCo/Z/2Aiu4jBmSXuj4OiAzda,"Admin Joshtein","Sunter Permai Jaya",ITB,089632121857,"2022-04-14 15:10:26","2022-04-15 03:26:53"
+4,joshtein2222@gmail.com,$2a$08$rU6./gVe7UYBP2lhstYLn.yZq7GpyqYB9EDQZsSxF5lq98eUOLGDe,"Joshtein Andrew Widjaja","Jl. Tubagus Ismail 1 No XIV, Sekeloa, Bandung","Institut Teknologi Bandung",081517050777,"2022-04-17 15:44:24","2022-04-17 15:44:24"
+5,joshtein4312@yahoo.com,$2a$08$wCiWFX0a7CjCza4VRhuNCOgCNxUsT3a2puUHvP.MtkJB1PGijphYC,"Joshtein Andrew Cacat","Jl. Tubagus Ismail 1 No XIV, Sekeloa, Bandung","Institut Teknologi Bandung",081517050777,"2022-04-17 15:46:35","2022-04-17 15:46:35"
+6,A1@gmail.com,$2a$08$qOUfyPlLUEMpFZbJZSsHvuIIGBhkFafM.SrfcTS8UhpWoVy9KtPmi,A1,"Jl. Tubagus Ismail 1 No XIV, Sekeloa, Bandung","Institut Teknologi Bandung",081517050777,"2022-04-17 15:48:22","2022-04-17 15:48:22"
+7,anjay123@gmail.com,$2a$08$dKTH9jKeo1kxgoXQngTHeO7Y6QuR9hvgmLjBel3NQE3qRUMQQ6Cm.,"Joshtein Andrew Widjaja","Jl. Tubagus Ismail 1 No XIV, Sekeloa, Bandung","Institut Teknologi Bandung",081517050777,"2022-04-17 15:56:20","2022-04-17 15:56:20"
+8,Enrico@gmail.com,$2a$08$1TOCASxsUmlyz0hpK9gjYuQXLtJCoJ8O3XhQdti65xMKdpO1EU2zG,"Admin Enrico","Sunter Permai Jaya",ITB,089632121857,"2022-04-20 06:55:49","2022-04-20 06:56:51"
